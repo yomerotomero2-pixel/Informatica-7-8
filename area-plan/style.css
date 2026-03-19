@@ -1,4 +1,4 @@
-<style> h1 {
+ h1 {
     text-align:center;
     }
     figure {
@@ -17,4 +17,14 @@
     footer {
         text-align:center;
     }
-    </style>
+
+header {
+    display:flex;
+    justify-content:space-between;
+}
+
+nav {
+    display:flex;
+    gap:1em;
+}
+
