@@ -1,25 +1,40 @@
+body{
+    position:relative;
+    height:5000px;
+
+}
+
 .r {
     background-color:black;
     color: white;
-    left: 50px;
+    position:sticky;
+    top:0px;
 }
 .e {
     background-color:black;
     color: white;
-    left: 50px;
+    position:sticky;
+    top:0px;
+
 }
 .n {
     background-color:black;
     color: white;
+    position:sticky;
+    top:0px;
 
 }
 .a {
     background-color:black;
     color: white;
+    position:sticky;
+    top:0px;
 
 }
 .t {
     background-color:black;
     color: white;
+    position:sticky;
+    top:0px;
 
 }
