@@ -20,3 +20,4 @@ function printArticle3(){
     alert("We believe that men will be punished for their own sins, and not for Adam’s transgression.")
 
 }
+
