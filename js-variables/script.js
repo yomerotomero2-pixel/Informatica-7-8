@@ -21,9 +21,12 @@ function favoriteCompany(){
     console.log(isActive)
     console.log(fundingAmount)
 }
-
+let i = 5;
 function operations(){
-    let integer= 4;
-    console.log(integer)
-    integer
+    i = i * 2;
+    i = i + 10;
+    i = i / 2;
+    i = i - 5;
+    alert(i)
+
 }
