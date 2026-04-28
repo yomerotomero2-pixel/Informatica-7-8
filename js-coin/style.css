@@ -1,0 +1,18 @@
+h1{
+    color:black;
+    text-align:center;
+}
+
+button{
+    height:100px;
+    width:100px;
+    border-radius:50px;
+    background-align:center;
+    background-color:gold;
+    border-color:gold;
+
+}
+
+body{
+    text-align:center;
+}
