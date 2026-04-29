@@ -1,4 +1,4 @@
-function coin(){
+function coin(user){
     let randumNum = Math.random(); //aqui guaradamos este numero en una variable que podemos usar luego
     console.log(randumNum); //esto solo es para ver los numero que se estan generando
 
@@ -9,5 +9,13 @@ function coin(){
     }else{
         subtitle.innerHTML ="Tails";
     }
+
+    let result = document.querySelector("h3");
+    if(user == "Heads"){
+        result.innerHTML = "You won";
+    }else{
+        result.innerHTML = "You lost";
+    }
 }
+
 
