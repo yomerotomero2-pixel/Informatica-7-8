@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-align:center;
+
+}
+
+button{
+    height:300px;
+    width:300px;
+    border-radius:40px;
+    background-color:lightgreen;
+    font-size:3rem;
+    border-color:lightgreen;
+    display:flex;
+    justify-content: flex-start;
+
+
+}
