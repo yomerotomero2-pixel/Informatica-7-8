@@ -1,0 +1,21 @@
+body{
+    background-color:pink;
+    text-align:center;
+}
+
+
+
+#time{
+    background-color:lightblue;
+    width:300px;
+}
+
+#day{
+    background-color:yellow;
+    width:300px;
+}
+
+#friday{
+    background-color:lightblue;
+    width:300px;
+}

@@ -40,7 +40,10 @@ document.addEventListener("DOMContentLoaded", function(){
         if (day == 6){
             document.querySelector('#day').innerHTML = "Today is Saturday";
         }
-        
+
+        if (day == 5{
+            document.querySelector('#friday').innerHTML = "
+        })
         return false; //Prevents website from reloading
     };
 })
