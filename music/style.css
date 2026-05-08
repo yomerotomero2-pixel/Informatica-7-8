@@ -1,0 +1,27 @@
+.instrument{
+    background-color:whitesmoke;
+    height:100px;
+    width:100px;
+    text-align:center;
+    border-radius:10px;
+}
+
+.active{
+    background-color: black;
+    color: white;
+}
+
+.flex1{
+    display:flex;
+    justify-content:center;
+}
+
+.flex2{
+    display:flex;
+    justify-content:center;
+}
+
+.flex3{
+    display:flex;
+    justify-content:center;
+}

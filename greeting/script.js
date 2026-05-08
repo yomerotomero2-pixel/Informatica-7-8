@@ -22,7 +22,25 @@ document.addEventListener("DOMContentLoaded", function(){
         if (day == 0){
             document.querySelector("#day").innerHTML = "Today is Sunday";
         }
-
+        if (day == 1){
+            document.querySelector('#day').innerHTML = "Today is Monday";
+        }
+        if (day == 2){
+            document.querySelector('#day').innerHTML = "Today is Tuesday";
+        }
+        if (day == 3){
+            document.querySelector('#day').innerHTML = "Today is Wednesday";
+        }
+        if (day == 4){
+            document.querySelector('#day').innerHTML = "Today is Thursday";
+        }
+        if (day == 5){
+            document.querySelector('#day').innerHTML = "Today is Friday";
+        }
+        if (day == 6){
+            document.querySelector('#day').innerHTML = "Today is Saturday";
+        }
+        
         return false; //Prevents website from reloading
     };
 })
