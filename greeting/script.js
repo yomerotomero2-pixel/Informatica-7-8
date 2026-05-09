@@ -41,9 +41,29 @@ document.addEventListener("DOMContentLoaded", function(){
             document.querySelector('#day').innerHTML = "Today is Saturday";
         }
 
-        if (day == 5{
-            document.querySelector('#friday').innerHTML = "
-        })
+
+        if (day == 5){
+            document.querySelector('#friday').innerHTML = "Finally Fridaaaaaay! 🕺"
+         }
+         if (day == 6){
+            document.querySelector('#friday').innerHTML = "Just enjoy your weekend 🙌"
+         }
+         if (day == 0){
+            document.querySelector('#friday').innerHTML = "Just enjoy your weekend 🙌"
+         }
+         if (day == 1){
+            document.querySelector('#friday').innerHTML = "Not Friday, yet!"
+         }
+         if (day == 2){
+            document.querySelector('#friday').innerHTML = "Not Friday, yet!"
+         }
+         if (day == 3){
+            document.querySelector('#friday').innerHTML = "Not Friday, yet!"
+         }
+         if (day == 4){
+            document.querySelector('#friday').innerHTML = "Not Friday, yet!"
+         }
+
         return false; //Prevents website from reloading
     };
 })
