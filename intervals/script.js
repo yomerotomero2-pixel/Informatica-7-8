@@ -1,4 +1,5 @@
 let counter = 5;
+let interval;
 
 
 function count() {
@@ -13,7 +14,11 @@ function count() {
         time--;
     }
 
-    
+
+
+    Math.floor(counter/60);
+
+
 }
 
     document.addEventListener("DOMContentLoaded",function(){
